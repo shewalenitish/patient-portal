@@ -89,12 +89,6 @@ Base: `http://localhost:4000`
 
 ---
 
-## Full Implementation — Project Files (copy these into repo)
-
-Below are all project files for a working **React + Express + SQLite** app. Copy into a folder `patient-portal/` with `backend/` and `frontend/` as shown.
-
----
-
 ### repo structure
 
 ```
