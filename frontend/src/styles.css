@@ -1,0 +1,12 @@
+body{font-family:system-ui,Arial;padding:24px;background:#f6f8fb}
+.container{max-width:800px;margin:0 auto;background:white;padding:20px;border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,.06)}
+h1{margin:0 0 12px}
+.upload{margin-bottom:20px}
+.file-label input{display:block;margin-top:8px}
+.msg{margin-top:8px;padding:8px;border-radius:4px}
+.msg.success{background:#e6ffef;border:1px solid #23a455}
+.msg.error{background:#ffefef;border:1px solid #d64545}
+.list ul{list-style:none;padding:0}
+.list li{padding:10px;border-bottom:1px solid #eee}
+.meta{display:flex;justify-content:space-between;align-items:center}
+.meta-right button{margin-left:8px}
